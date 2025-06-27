@@ -31,9 +31,10 @@ li {
   display: block;
 }
 
-.image {
+img {
   margin: 5px;
   display: inline-block;
+  height: 310px;
 }
 
 .description {
@@ -43,5 +44,5 @@ li {
   width: 500px;
 }
 .lists {
-  margin: 0 30px 75px 0;
+  margin: 30px 30px 75px 0;
 }
